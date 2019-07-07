@@ -1,7 +1,5 @@
 # Ben Nawaz - Card Shop Coding Exercise
 
-Hosted solution on Google Cloud: https://react-express-card-sample-site.appspot.com
-
 Uses an Express server to render a React application, configured with Webpack and Babel.
 
 Uses Jest for testing.
