@@ -1,4 +1,4 @@
-# ***REMOVED*** ***REMOVED*** - Card Shop Coding Exercise
+# Erin Eland - Card Shop Coding Exercise
 
 Uses an Express server to render a React application, configured with Webpack and Babel.
 
